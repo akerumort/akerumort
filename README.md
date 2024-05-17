@@ -14,8 +14,8 @@
 
 <h2>📘 My Top Open Source Projects: </h2>
 
-[![weather_forecast_site](https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=weather_forecast_site&theme=radical)](https://github.com/akerumort/weather_forecast_site)
-[![AutoSalonApp](https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=AutoSalonApp&theme=radical)](https://github.com/akerumort/AutoSalonApp)
+[![weather_forecast_site](https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=weather_forecast_site&show_description=false&theme=radical)](https://github.com/akerumort/weather_forecast_site)
+[![AutoSalonApp](https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=AutoSalonApp&show_description=false&theme=radical)](https://github.com/akerumort/AutoSalonApp)
 
 <h2>💻 GitHub Profile Stats: </h2>
 
