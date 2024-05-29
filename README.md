@@ -6,7 +6,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akerumort&label=Profile%20views&color=00bfff&style=square" alt="akerumort" /> </p>
 <div align="center"><a href="https://www.instagram.com/akerumort/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=de37d0" alt="Instagram"> </div>
- 
+
+- 🌱 I’m currently learning Java.The Complete Reference, 12th Edition by Herbert Schildt
 - 📫 How to reach me **akerumort404@gmail.com**
 
 <h2 align="left"> 💻 Languages and Tools: </h2>
@@ -17,7 +18,7 @@
 [![weather_forecast_site](https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=weather_forecast_site&show_description=true&theme=radical)](https://github.com/akerumort/weather_forecast_site)
 [![AutoSalonApp](https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=AutoSalonApp&show_description=true&theme=radical)](https://github.com/akerumort/AutoSalonApp)
 
-<h2>💻 GitHub Profile Stats: </h2>
+<h2>📊 GitHub Profile Stats: </h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akerumort&show_icons=true&locale=en&layout=compact&theme=radical" alt="akerumort" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akerumort&show_icons=true&locale=en&theme=radical" alt="akerumort" /></p>
