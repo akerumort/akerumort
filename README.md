@@ -15,10 +15,10 @@
 
 <h2>📘 My Top Open Source Projects: </h2>
 
-[![weather_forecast_site](https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=weather_forecast_site&show_description=true&theme=radical)](https://github.com/akerumort/weather_forecast_site)
-[![AutoSalonApp](https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=AutoSalonApp&show_description=true&theme=radical)](https://github.com/akerumort/AutoSalonApp)
+[![weather_forecast_site](https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=weather_forecast_site&show_description=true&theme=holi)](https://github.com/akerumort/weather_forecast_site)
+[![AutoSalonApp](https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=AutoSalonApp&show_description=true&theme=holi)](https://github.com/akerumort/AutoSalonApp)
 
 <h2>📊 GitHub Profile Stats: </h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akerumort&show_icons=true&locale=en&layout=compact&theme=radical" alt="akerumort" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akerumort&show_icons=true&locale=en&theme=radical" alt="akerumort" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akerumort&show_icons=true&locale=en&layout=compact&theme=holi" alt="akerumort" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akerumort&show_icons=true&locale=en&theme=holi" alt="akerumort" /></p>
