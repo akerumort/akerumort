@@ -20,6 +20,6 @@
 
 <h2>📊 GitHub Profile Stats: </h2>
 
-<p> <img alight="left" src="https://github-readme-activity-graph.vercel.app/graph?username=akerumort&theme=high-contrast" alt="akerumort"</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akerumort&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="akerumort" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akerumort&show_icons=true&locale=en&theme=midnight-purple" alt="akerumort" /></p>
+<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akerumort&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="akerumort" /></p>
+<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=akerumort&show_icons=true&locale=en&theme=midnight-purple" alt="akerumort"/> </p>
+<p align="center"> <img width="1200" height="400" src="https://github-readme-activity-graph.vercel.app/graph?username=akerumort&theme=high-contrast" alt="akerumort"/></p>
