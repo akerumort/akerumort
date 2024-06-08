@@ -4,8 +4,9 @@
 
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Ivan @akerumort Rodionov</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=akerumort&label=Profile%20views&color=6A19B5&style=square" alt="akerumort" /> </p>
-<div align="center"><a href="https://www.instagram.com/akerumort/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=000000" alt="Instagram"> </div> <br>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=akerumort&style=for-the-badge&color=6A19B5" alt=""/>
+</div> <br>
 
 - 🌱 I’m currently learning "Java. The Complete Reference, 12th Edition" by Herbert Schildt
 - 📫 How to reach me **akerumort404@gmail.com**
@@ -23,3 +24,16 @@
 <p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akerumort&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="akerumort" /></p>
 <p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=akerumort&show_icons=true&locale=en&theme=midnight-purple" alt="akerumort"/> </p>
 <p align="center"> <img width="1200" height="400" src="https://github-readme-activity-graph.vercel.app/graph?username=akerumort&theme=high-contrast" alt="akerumort"/></p>
+
+<h2>👾 Other Links: </h2>
+
+<div align="left">
+  <a href="https://t.me/akerumort" target="_blank"> <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white&color=black" alt="Telegram">
+</div>
+    
+<div align="left">
+  <a href="https://www.instagram.com/akerumort/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=6A19B5" alt="Instagram">
+</div>
+    
+
+
