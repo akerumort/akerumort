@@ -48,9 +48,12 @@
 
 <h2>📊 GitHub Profile Stats: </h2>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akerumort&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Top Langs" height="200"/> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=akerumort&show_icons=true&locale=en&theme=midnight-purple" alt="Stats" height="200"/> </p>
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=akerumort&theme=high-contrast" alt="Graph"/> </p>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akerumort&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Top Langs" height="160"/> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=akerumort&show_icons=true&locale=en&theme=midnight-purple" alt="Stats" height="160"/> 
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=akerumort&theme=high-contrast" alt="Graph" height="340"/>
+</p>
+
 
 <h2>👾 Other Links: </h2>
 
