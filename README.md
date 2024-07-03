@@ -6,7 +6,7 @@
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=akerumort&style=for-the-badge&color=6A19B5" alt=""/>
-</div> 
+</div> <br>
 
 - 🌱 I’m currently learning "Java. The Complete Reference, 12th Edition" by Herbert Schildt
 - 📫 How to reach me **akerumort404@gmail.com**
