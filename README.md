@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img align="center" height="300" width="600" src="https://tenor.com/ru/view/anime-gif-20857586.gif" />
+  <img align="center" height="300" width="550" src="https://tenor.com/ru/view/satoru-gojo-gojo-satoru-beautiful-eyes-omg-gojo-is-so-hot-gif-5965381361152012446.gif" />
 </div>
 
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Ivan @akerumort Rodionov</h1>
@@ -65,7 +65,7 @@
 </div>
 
 <div align="center"> 
-  <img align="center" height="300" width="600" src="https://tenor.com/ru/view/blue-anime-gif-gif-21266292.gif" />
+  <img align="center" height="300" width="550" src="https://tenor.com/ru/view/blue-anime-gif-gif-21266292.gif" />
 </div>
     
 
