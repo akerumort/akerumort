@@ -1,11 +1,11 @@
 <div align="center"> 
-  <img src="https://tenor.com/ru/view/sad-anime-black-and-white-hyouka-oreki-houtarou-gif-17647487.gif"/>
+  <img align="center" height="300" width="600" src="https://tenor.com/ru/view/gojo-gojo-satoru-satoru-satoru-gojo-gojo-sad-gif-7526513412428813447.gif" />
 </div>
 
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Ivan @akerumort Rodionov</h1>
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=akerumort&style=for-the-badge&color=6A19B5" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=akerumort&style=for-the-badge&color=blue" alt=""/>
 </div> <br>
 
 - 🌱 I’m currently learning "Java. The Complete Reference, 12th Edition" by Herbert Schildt
@@ -39,30 +39,33 @@
 
 <div align="center">
     <a href="https://github.com/akerumort/weatherForecastWebsite">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=weatherForecastWebsite&show_description=true&theme=midnight-purple" alt="weatherForecastWebsite"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=weatherForecastWebsite&show_description=true&theme=github_dark" alt="weatherForecastWebsite"/>
     </a>
     <a href="https://github.com/akerumort/AutoSalonApp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=AutoSalonApp&show_description=true&theme=midnight-purple" alt="AutoSalonApp"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=AutoSalonApp&show_description=true&theme=github_dark" alt="AutoSalonApp"/>
     </a>
 </div>
 
 <h2>📊 GitHub Profile Stats: </h2>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akerumort&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Top Langs" height="160"/> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=akerumort&show_icons=true&locale=en&theme=midnight-purple" alt="Stats" height="160"/> 
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=akerumort&theme=high-contrast" alt="Graph" height="340"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=akerumort&theme=react-dark" alt="Graph"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akerumort&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Langs" height="160"/> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=akerumort&show_icons=true&locale=en&theme=github_dark" alt="Stats" height="160"/>
 </p>
 
-
-<h2>👾 Other Links: </h2>
+<h2>💫 Other Links: </h2>
 
 <div align="left">
-  <a href="https://t.me/akerumort" target="_blank"> <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white&color=black" alt="Telegram">
+  <a href="https://t.me/akerumort" target="_blank"> <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white&color=blue" alt="Telegram">
 </div>
     
 <div align="left">
-  <a href="https://www.instagram.com/akerumort/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=6A19B5" alt="Instagram">
+  <a href="https://www.instagram.com/akerumort/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white&color=black" alt="Instagram">
+</div>
+
+<div align="center"> 
+  <img align="center" height="300" width="600" src="https://tenor.com/ru/view/blue-anime-gif-gif-21266292.gif" />
 </div>
     
 
