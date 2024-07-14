@@ -38,11 +38,8 @@
 <h2>📘 My Top Open Source Projects: </h2>
 
 <div align="center">
-    <a href="https://github.com/akerumort/weatherForecastWebsite">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=weatherForecastWebsite&show_description=true&theme=github_dark" alt="weatherForecastWebsite"/>
-    </a>
-    <a href="https://github.com/akerumort/AutoSalonApp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=AutoSalonApp&show_description=true&theme=github_dark" alt="AutoSalonApp"/>
+  <a href="https://github.com/akerumort/OrderManagementService">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=OrderManagementService&show_description=true&theme=github_dark" alt="OrderManagementService"/>
     </a>
 </div>
 
