@@ -39,7 +39,16 @@
 
 <div align="center">
   <a href="https://github.com/akerumort/OrderManagementService">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=OrderManagementService&show_description=true&theme=github_dark" alt="OrderManagementService"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=OrderManagementService&show_description=true&theme=algolia" alt="OrderManagementService"/>
+    </a>
+      <a href="https://github.com/akerumort/weatherForecastWebsite">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=weatherForecastWebsite&show_description=true&theme=algolia" alt="weatherForecastWebsite"/>
+    </a>
+    <a href="https://github.com/akerumort/AutoSalonApp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=AutoSalonApp&show_description=true&theme=transparent" alt="AutoSalonApp"/>
+    </a>
+   <a href="https://github.com/akerumort/CalculatorApp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=CalculatorApp&show_description=true&theme=transparent" alt="CalculatorApp"/>
     </a>
 </div>
 
