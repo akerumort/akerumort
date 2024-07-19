@@ -39,14 +39,14 @@
 <h2>📘 My Top Open Source Projects: </h2>
 
 <div align="center">
-  <a href="https://github.com/akerumort/OrderManagementService">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=OrderManagementService&show_description=true&theme=algolia" alt="OrderManagementService"/>
-    <a href="https://github.com/akerumort/weatherForecastWebsite">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=weatherForecastWebsite&show_description=true&theme=github_dark" alt="weatherForecastWebsite"/>
-    <a href="https://github.com/akerumort/AutoSalonApp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=AutoSalonApp&show_description=true&theme=github_dark" alt="AutoSalonApp"/>
-   <a href="https://github.com/akerumort/CalculatorApp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=CalculatorApp&show_description=true&theme=algolia" alt="CalculatorApp"/>
+  <a href="https://github.com/akerumort/order-management-service">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=order-management-service&show_description=true&theme=github_dark" alt="OrderManagementService"/>
+    <a href="https://github.com/akerumort/weather-forecast-website">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=weather-forecast-website&show_description=true&theme=github_dark" alt="weatherForecastWebsite"/>
+    <a href="https://github.com/akerumort/auto-salon-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=auto-salon-app&show_description=true&theme=github_dark" alt="AutoSalonApp"/>
+   <a href="https://github.com/akerumort/calculator-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=calculator-app&show_description=true&theme=github_dark" alt="CalculatorApp"/>
 </div>
 
 <h2>📊 GitHub Profile Stats: </h2>
