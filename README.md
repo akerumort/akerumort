@@ -32,6 +32,7 @@
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/> </a>
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="50" height="50"/> </a>
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/liquibase/liquibase-original.svg" width="50" height="50"/> </a>
+  <a> <img src="https://github.com/user-attachments/assets/24551f16-864a-4c87-abcd-963ac45fcce9" width="50" height="50"/>  </a>
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="50" height="50"/> </a>
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" width="50" height="50"/> </a>          
 </p>
@@ -43,10 +44,10 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=order-management-service&show_description=true&theme=github_dark" alt="OrderManagementService"/>
     <a href="https://github.com/akerumort/weather-forecast-website">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=weather-forecast-website&show_description=true&theme=github_dark" alt="weatherForecastWebsite"/>
-    <a href="https://github.com/akerumort/auto-salon-app">
+   <a href="https://github.com/akerumort/library-service">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=library-service&show_description=true&theme=github_dark" alt="library-service"/>
+     <a href="https://github.com/akerumort/auto-salon-app">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=auto-salon-app&show_description=true&theme=github_dark" alt="AutoSalonApp"/>
-   <a href="https://github.com/akerumort/calculator-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=calculator-app&show_description=true&theme=github_dark" alt="CalculatorApp"/>
 </div>
 
 <h2>📊 GitHub Profile Stats: </h2>
