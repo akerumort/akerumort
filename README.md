@@ -46,8 +46,8 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=weather-forecast-website&show_description=true&theme=github_dark" alt="weatherForecastWebsite"/>
    <a href="https://github.com/akerumort/library-service">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=library-service&show_description=true&theme=github_dark" alt="library-service"/>
-     <a href="https://github.com/akerumort/auto-salon-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=auto-salon-app&show_description=true&theme=github_dark" alt="AutoSalonApp"/>
+     <a href="https://github.com/akerumort/vacation-pay-calculator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=vacation-pay-calculator&show_description=true&theme=github_dark" alt="VacationPayCalculator"/>
 </div>
 
 <h2>📊 GitHub Profile Stats: </h2>
