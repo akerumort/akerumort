@@ -1,6 +1,6 @@
 <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Ivan, Java Backend developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13"/> <b>Russia</b>. </p>
+<p> <b> Welcome to my page! </b> </br> I'm Ivan, <b> Java Backend developer </b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13"/> <b>Russia</b>. </p>
 
 - 🔭 I’m currently working on [bookletter-website](https://github.com/akerumort/bookletter-website)
 - 🌱 Also I’m currently learning "Java. The Complete Reference, 12th Edition" by Herbert Schildt
