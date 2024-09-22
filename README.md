@@ -1,4 +1,4 @@
-<h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, nice to see you.</h1>
+<h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi everyone, nice to see you.</h1>
 
 <p> <b> Welcome to my page! </b> </br> I'm Ivan, <b> Java Backend developer </b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13"/> <b>Russia</b>. </p>
 
@@ -65,8 +65,13 @@
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akerumort&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Langs" height="160"/> 
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=akerumort&show_icons=true&locale=en&theme=github_dark" alt="Stats" height="160"/>
-</p>
+</p> <br>
 
-    
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AEACAC&center=true&vCenter=true&multiline=true&width=500&height=100&lines=%22enthusiasm+and+training+are+not;+enough+to+win%3A+what+counts;+is+experience%22+(c)+Paulo+Coelho" alt="Typing SVG" />
+  </a>
+</div>
+
 
 
