@@ -1,7 +1,3 @@
-<div align="center"> 
-  <img align="center" height="300" width="550" src="https://tenor.com/ru/view/satoru-gojo-gojo-satoru-beautiful-eyes-omg-gojo-is-so-hot-gif-5965381361152012446.gif" />
-</div>
-
 <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm Ivan, Java Backend developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13"/> <b>Russia</b>. </p>
