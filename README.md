@@ -48,7 +48,6 @@
 </p>
 
 <h2>📘 My Top Open Source Projects: </h2>
-
 <div>
   <a href="https://github.com/akerumort/order-management-service">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=order-management-service&show_description=true&theme=github_dark" alt="OrderManagementService"/>
@@ -61,17 +60,9 @@
 </div>
 
 <h2>📊 GitHub Profile Stats: </h2>
-
-<p>
+<div>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akerumort&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Langs" height="160"/> 
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=akerumort&show_icons=true&locale=en&theme=github_dark" alt="Stats" height="160"/>
-</p> <br>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AEACAC&center=true&vCenter=true&multiline=true&width=500&height=100&lines=%22enthusiasm+and+training+are+not;+enough+to+win%3A+what+counts;+is+experience%22+(c)+Paulo+Coelho" alt="Typing SVG" />
-  </a>
 </div>
-
 
 
