@@ -14,7 +14,11 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white&color=%23E4405F" alt="Instagram">
   </a>
 
-<a href="https://taplink.cc/akerumort" target="_blank">
+ <a href="https://ru.pinterest.com/akerumort" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=flat&logo=pinterest&logoColor=white&color=%23E60023" alt="Pinterest">
+  </a>
+  
+  <a href="https://taplink.cc/akerumort" target="_blank">
     <img src="https://img.shields.io/badge/Taplink-%23000000.svg?style=flat&logo=link&logoColor=white&color=purple" alt="Taplink">
   </a>
   
