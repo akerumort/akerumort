@@ -66,7 +66,7 @@
 <h2>📊 GitHub Profile Stats: </h2>
 <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akerumort&hide_title=true&hide_border=true&layout=compact&exclude_repo=comp426,Redventures-Movie-Quotes&theme=github_dark" alt="Top Langs" height="160"/> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=akerumort&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" alt="Stats" height="160"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=akerumort&hide_title=true&hide_border=true&show_icons=true&count_private=true&theme=github_dark" alt="Stats" height="160"/>
 </div>
 
 
