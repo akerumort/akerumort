@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [bookletter-website](https://github.com/akerumort/bookletter-website)
 - 🌱 Also I’m currently learning "Java. The Complete Reference, 12th Edition" by Herbert Schildt
-- 📫 How to reach me **akerumort404@gmail.com**
+- 📫 How to reach me **akerumortworking@gmail.com**
 
 <div align="left">
   <a href="https://t.me/akerumort" target="_blank">
