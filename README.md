@@ -40,6 +40,7 @@
 <h3> Tools: </h3>
 <p> 
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  width="40" height="40"/> </a>
+    <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" height="40"/> </a>      
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"  width="40" height="40"/> </a>
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"  width="40" height="40"/> </a>
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> </a>
@@ -47,8 +48,8 @@
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40"/> </a>
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/liquibase/liquibase-original.svg" width="40" height="40"/> </a>
   <a> <img src="https://github.com/user-attachments/assets/24551f16-864a-4c87-abcd-963ac45fcce9" width="40" height="40"/>  </a>
-  <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" height="40"/> </a>
-  <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" width="40" height="40"/> </a>          
+  <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" height="40"/> </a>       
+  <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" width="40" height="40"/> </a>    
 </p>
 
 <h2>📘 My Top Open Source Projects: </h2>
