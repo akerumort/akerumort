@@ -7,7 +7,7 @@
 - 📫 How to reach me **akerumortworking@gmail.com**
 
 <div align="left">
-  <a href="https://t.me/akerumort" target="_blank">
+  <a href="https://t.me/workingakeru" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white&color=blue" alt="Telegram">
   </a>
   <a href="https://www.instagram.com/akerumort/" target="_blank">
