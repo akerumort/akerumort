@@ -48,8 +48,9 @@
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40"/> </a>
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/liquibase/liquibase-original.svg" width="40" height="40"/> </a>
   <a> <img src="https://github.com/user-attachments/assets/24551f16-864a-4c87-abcd-963ac45fcce9" width="40" height="40"/>  </a>
-  <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" height="40"/> </a>       
-  <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" width="40" height="40"/> </a>    
+  <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" height="40"/> </a>  
+  <a> <img src="https://github.com/keycloak/keycloak-misc/blob/main/logo/icon.svg" width="40" height="40"/> </a> 
+  <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" width="40" height="40"/> </a>
 </p>
 
 <h2>📘 My Top Open Source Projects: </h2>
