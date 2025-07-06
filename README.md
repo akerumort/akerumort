@@ -1,5 +1,5 @@
 <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi everyone, nice to see you.</h1>
-
+<a> <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWpscGlkeWxvejRnZ216ZWlzbjBmMTBpYXBjZjkyanoxcTN2NjFhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="170"> </a>
 <p> <b> Welcome to my page! </b> </br> I'm Ivan, <b> Java Backend developer </b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13"/> <b>Russia</b>. </p>
 
 - 🔭 I’m currently working on [bookletter-website](https://github.com/akerumort/bookletter-website)
@@ -25,7 +25,9 @@
   <img src="https://komarev.com/ghpvc/?username=akerumort&style=flat&color=blue" alt=""/>
 </div>
 
-<h2 align="left"> 💻 Languages and Tools: </h2>
+<h2 align="left"> 
+  <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenAzNDdyemZrMHVqbWdlc3pya3E3YWV5MHhpMHdwdno3azFuYjJ1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EZ9X7p7g6x1EK1jEIR/giphy.gif" width="45"> Languages and Tools: 
+</h2>
 
 <h3> Languages: </h3>
 <p> 
@@ -53,7 +55,9 @@
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" width="40" height="40"/> </a>
 </p>
 
-<h2>📘 My Top Open Source Projects: </h2>
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"> My Top Open Source Projects: 
+</h2>
 <div>
   <a href="https://github.com/akerumort/order-management-service">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=order-management-service&show_description=true&theme=github_dark" alt="OrderManagementService"/>
@@ -65,10 +69,23 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=akerumort&repo=vacation-pay-calculator&show_description=true&theme=github_dark" alt="VacationPayCalculator"/>
 </div>
 
-<h2>📊 GitHub Profile Stats: </h2>
-<div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akerumort&hide_title=true&hide_border=true&layout=compact&exclude_repo=comp426,Redventures-Movie-Quotes&theme=github_dark" alt="Top Langs" height="160"/> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=akerumort&hide_title=true&hide_border=true&show_icons=true&count_private=true&theme=github_dark" alt="Stats" height="160"/>
-</div>
+<h2> 
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Profile Stats: 
+</h2>
+<p>
+  <img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akerumort&theme=github_dark" />
+</p>
+
+<table>
+  <tr>
+     <td width="50%">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=akerumort&hide_title=true&hide_border=true&show_icons=true&count_private=true&theme=github_dark" alt="Stats" height="200"/>
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akerumort&layout=compact&hide_border=true&theme=github_dark" />
+    </td>
+  </tr>
+</table>
+</table>
 
 
