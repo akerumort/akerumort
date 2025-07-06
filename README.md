@@ -72,17 +72,14 @@
 <h2> 
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Profile Stats: 
 </h2>
-<p>
-  <img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akerumort&theme=github_dark" />
-</p>
 
 <table>
   <tr>
-     <td width="50%">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=akerumort&hide_title=true&hide_border=true&show_icons=true&count_private=true&theme=github_dark" alt="Stats" height="200"/>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akerumort&layout=compact&hide_border=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,045c94" />
     </td>
     <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akerumort&layout=compact&hide_border=true&theme=github_dark" />
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=akerumort&theme=tokyonight_duo&hide_border=true" />
     </td>
   </tr>
 </table>
