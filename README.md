@@ -76,7 +76,7 @@
 <table>
   <tr>
     <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akerumort&layout=compact&hide_border=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,045c94" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akerumort&layout=compact&hide_border=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,372489" />
     </td>
     <td width="50%">
       <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=akerumort&theme=tokyonight_duo&hide_border=true" />
