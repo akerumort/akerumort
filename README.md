@@ -1,5 +1,7 @@
 <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi everyone, nice to see you.</h1>
-<a> <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWpscGlkeWxvejRnZ216ZWlzbjBmMTBpYXBjZjkyanoxcTN2NjFhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="170"> </a>
+
+<!--  <a> <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWpscGlkeWxvejRnZ216ZWlzbjBmMTBpYXBjZjkyanoxcTN2NjFhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="170"> </a> -->
+
 <p> <b> Welcome to my page! </b> </br> I'm Ivan, <b> Java Backend developer </b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13"/> <b>Russia</b>. </p>
 
 - 🔭 I’m currently working on [bookletter-website](https://github.com/akerumort/bookletter-website)
@@ -26,7 +28,7 @@
 </div>
 
 <h2 align="left"> 
-  <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenAzNDdyemZrMHVqbWdlc3pya3E3YWV5MHhpMHdwdno3azFuYjJ1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EZ9X7p7g6x1EK1jEIR/giphy.gif" width="45"> Languages and Tools: 
+  <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQ3bjRtMHN3djlkaGUxNzdvNXh0dm5sdTlrd2NsNDNpZzZmNWY0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3BBv1D4AFbJkY/giphy.gif" width="35"> Languages and Tools: 
 </h2>
 
 <h3> Languages: </h3>
@@ -75,11 +77,11 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="40%">
       <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akerumort&layout=compact&hide_border=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,372489" />
     </td>
-    <td width="50%">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=akerumort&theme=tokyonight_duo&hide_border=true" />
+    <td width="60%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=akerumort&hide_title=true&hide_border=true&layout=compact&show_icons=true&count_private=true&&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,372489" alt="Stats"/>
     </td>
   </tr>
 </table>
