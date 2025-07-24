@@ -5,7 +5,7 @@
 <p> <b> Welcome to my page! </b> </br> I'm Ivan, <b> Java Backend developer </b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13"/> <b>Russia</b>. </p>
 
 <!-- - 🔭 I’m currently working on [bookletter-website](https://github.com/akerumort/bookletter-website) -->
-- 🌱 Also I’m currently learning "Java. The Complete Reference, 12th Edition" by Herbert Schildt
+- 🌱 I’m currently learning "Java. The Complete Reference, 12th Edition" by Herbert Schildt
 - 📫 How to reach me **akerumortworking@gmail.com**
 
 <div align="left">
